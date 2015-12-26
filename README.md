@@ -7,9 +7,9 @@ Time spent: 2 hours spent in total
 
 Completed user stories:
 
- Required: User can enter a total bill amount in the bill amount field
- Required: User can select a tip percentage from the tip control bar
- Required: User can click and view the keyboard and then click out of the keyboard to get it to disappear
+ Required: User can enter a total bill amount in the bill amount field<br>
+ Required: User can select a tip percentage from the tip control bar<br>
+ Required: User can click and view the keyboard and then click out of the keyboard to get it to disappear<br>
  
 Notes:
 I made a few adjustments to the type and background color, as well as added an app icon.
